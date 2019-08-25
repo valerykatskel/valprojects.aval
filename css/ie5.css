@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+body {
+	text-align: center;
+}
+#mainWrapper {
+	text-align: left;
+}
+#phones {
+	width:382px;
+}
+
