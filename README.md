@@ -1,10 +1,12 @@
-# valprojects.aval
-This is one of my first projects. It was 2010...
+# Short description
+This is one of my first projects. It was an April of 2010... It was an IE6's time... It was full of energy and it was necessary to take into account his wishes like as PNG, max-width and more and more...
 
-This project includes only 3 pages
-https://valerykatskel.github.io/valprojects.aval/index.html
-https://valerykatskel.github.io/valprojects.aval/inner.html
-https://valerykatskel.github.io/valprojects.aval/inner2.html
+# My responsibilities for this project were:
+- Creation basic HTML markup for 3 pages: index page and 2 inner pages
+> https://valerykatskel.github.io/valprojects.aval/index.html
+> https://valerykatskel.github.io/valprojects.aval/inner.html
+> https://valerykatskel.github.io/valprojects.aval/inner2.html
+- Creation of ready-made templates for MODx CMS (HTML-based markup)
 
 # Stack of technologies:
 - HTML
